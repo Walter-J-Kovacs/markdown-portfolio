@@ -1,3 +1,3 @@
-*Board Games
-*Drums
-*Krazy Karl's Pizza
+* Board Games
+* Drums
+* Krazy Karl's Pizza
